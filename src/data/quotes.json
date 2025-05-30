@@ -1238,7 +1238,7 @@
     },
     {
       "id": 207,
-      "text": "The path to peace is not about changing the world, but about changing our relationship to it.",
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
       "author": "Tsoknyi Rinpoche",
       "category": "peace"
     },
@@ -1280,105 +1280,1465 @@
     },
     {
       "id": 214,
-      "text": "The practice of meditation is not about achieving something, but about being something.",
-      "author": "Tsoknyi Rinpoche",
+      "text": "The practice of meditation is not about achieving something but about letting go of everything.",
+      "author": "Ayya Khema",
       "category": "meditation"
     },
     {
       "id": 215,
-      "text": "When we understand that our thoughts are not who we are, we find freedom.",
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Ayya Khema",
+      "category": "peace"
+    },
+    {
+      "id": 216,
+      "text": "The cultivation of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ayya Khema",
+      "category": "mindfulness"
+    },
+    {
+      "id": 217,
+      "text": "The practice of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ayya Khema",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 218,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ayya Khema",
+      "category": "freedom"
+    },
+    {
+      "id": 219,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ayya Khema",
+      "category": "mindfulness"
+    },
+    {
+      "id": 220,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ayya Khema",
+      "category": "wisdom"
+    },
+    {
+      "id": 221,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ayya Khema",
+      "category": "presence"
+    },
+    {
+      "id": 222,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ayya Khema",
+      "category": "meditation"
+    },
+    {
+      "id": 223,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ayya Khema",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 224,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ayya Khema",
+      "category": "freedom"
+    },
+    {
+      "id": 225,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ayya Khema",
+      "category": "mindfulness"
+    },
+    {
+      "id": 226,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ayya Khema",
+      "category": "wisdom"
+    },
+    {
+      "id": 227,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ayya Khema",
+      "category": "presence"
+    },
+    {
+      "id": 228,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ayya Khema",
+      "category": "meditation"
+    },
+    {
+      "id": 229,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ayya Khema",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 230,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ayya Khema",
+      "category": "freedom"
+    },
+    {
+      "id": 231,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ayya Khema",
+      "category": "mindfulness"
+    },
+    {
+      "id": 232,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ayya Khema",
+      "category": "wisdom"
+    },
+    {
+      "id": 233,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ayya Khema",
+      "category": "presence"
+    },
+    {
+      "id": 234,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ayya Khema",
+      "category": "meditation"
+    },
+    {
+      "id": 235,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ayya Khema",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 236,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ayya Khema",
+      "category": "freedom"
+    },
+    {
+      "id": 237,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ayya Khema",
+      "category": "mindfulness"
+    },
+    {
+      "id": 238,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ayya Khema",
+      "category": "wisdom"
+    },
+    {
+      "id": 239,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ayya Khema",
+      "category": "presence"
+    },
+    {
+      "id": 240,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ayya Khema",
+      "category": "meditation"
+    },
+    {
+      "id": 241,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Ajahn Sumedho",
+      "category": "mindfulness"
+    },
+    {
+      "id": 242,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ajahn Sumedho",
+      "category": "freedom"
+    },
+    {
+      "id": 243,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ajahn Sumedho",
+      "category": "wisdom"
+    },
+    {
+      "id": 244,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ajahn Sumedho",
+      "category": "meditation"
+    },
+    {
+      "id": 245,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ajahn Sumedho",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 246,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Ajahn Sumedho",
+      "category": "peace"
+    },
+    {
+      "id": 247,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ajahn Sumedho",
+      "category": "mindfulness"
+    },
+    {
+      "id": 248,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ajahn Sumedho",
+      "category": "wisdom"
+    },
+    {
+      "id": 249,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ajahn Sumedho",
+      "category": "presence"
+    },
+    {
+      "id": 250,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ajahn Sumedho",
+      "category": "meditation"
+    },
+    {
+      "id": 251,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ajahn Sumedho",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 252,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ajahn Sumedho",
+      "category": "freedom"
+    },
+    {
+      "id": 253,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ajahn Sumedho",
+      "category": "mindfulness"
+    },
+    {
+      "id": 254,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ajahn Sumedho",
+      "category": "wisdom"
+    },
+    {
+      "id": 255,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ajahn Sumedho",
+      "category": "presence"
+    },
+    {
+      "id": 256,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 257,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 258,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 259,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 260,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 261,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "peace"
+    },
+    {
+      "id": 262,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 263,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 264,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 265,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 266,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 267,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 268,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 269,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 270,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 271,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 272,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 273,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 274,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 275,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 276,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 277,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 278,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 279,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 280,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 281,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 282,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 283,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 284,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 285,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 286,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 287,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 288,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 289,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 290,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 291,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 292,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 293,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 294,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 295,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 296,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 297,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 298,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 299,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 300,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 301,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 302,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 303,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 304,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 305,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 306,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 307,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 308,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 309,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 310,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 311,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "peace"
+    },
+    {
+      "id": 312,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 313,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 314,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 315,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 316,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 317,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 318,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 319,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 320,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 321,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 322,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 323,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 324,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 325,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 326,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "peace"
+    },
+    {
+      "id": 327,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 328,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 329,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 330,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sharon Salzberg",
+      "category": "meditation"
+    },
+    {
+      "id": 331,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sharon Salzberg",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 332,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sharon Salzberg",
+      "category": "freedom"
+    },
+    {
+      "id": 333,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sharon Salzberg",
+      "category": "mindfulness"
+    },
+    {
+      "id": 334,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sharon Salzberg",
+      "category": "wisdom"
+    },
+    {
+      "id": 335,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sharon Salzberg",
+      "category": "presence"
+    },
+    {
+      "id": 336,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Jack Kornfield",
+      "category": "mindfulness"
+    },
+    {
+      "id": 337,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Jack Kornfield",
+      "category": "freedom"
+    },
+    {
+      "id": 338,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Jack Kornfield",
+      "category": "wisdom"
+    },
+    {
+      "id": 339,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Jack Kornfield",
+      "category": "meditation"
+    },
+    {
+      "id": 340,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Jack Kornfield",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 341,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Jack Kornfield",
+      "category": "peace"
+    },
+    {
+      "id": 342,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Jack Kornfield",
+      "category": "mindfulness"
+    },
+    {
+      "id": 343,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Jack Kornfield",
+      "category": "wisdom"
+    },
+    {
+      "id": 344,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Jack Kornfield",
+      "category": "presence"
+    },
+    {
+      "id": 345,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Jack Kornfield",
+      "category": "meditation"
+    },
+    {
+      "id": 346,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Jack Kornfield",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 347,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Jack Kornfield",
+      "category": "freedom"
+    },
+    {
+      "id": 348,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Jack Kornfield",
+      "category": "mindfulness"
+    },
+    {
+      "id": 349,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Jack Kornfield",
+      "category": "wisdom"
+    },
+    {
+      "id": 350,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Jack Kornfield",
+      "category": "presence"
+    },
+    {
+      "id": 351,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Joseph Goldstein",
+      "category": "mindfulness"
+    },
+    {
+      "id": 352,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Joseph Goldstein",
+      "category": "freedom"
+    },
+    {
+      "id": 353,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Joseph Goldstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 354,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Joseph Goldstein",
+      "category": "meditation"
+    },
+    {
+      "id": 355,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Joseph Goldstein",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 356,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Joseph Goldstein",
+      "category": "peace"
+    },
+    {
+      "id": 357,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Joseph Goldstein",
+      "category": "mindfulness"
+    },
+    {
+      "id": 358,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Joseph Goldstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 359,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Joseph Goldstein",
+      "category": "presence"
+    },
+    {
+      "id": 360,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Joseph Goldstein",
+      "category": "meditation"
+    },
+    {
+      "id": 361,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Joseph Goldstein",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 362,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Joseph Goldstein",
+      "category": "freedom"
+    },
+    {
+      "id": 363,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Joseph Goldstein",
+      "category": "mindfulness"
+    },
+    {
+      "id": 364,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Joseph Goldstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 365,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Joseph Goldstein",
+      "category": "presence"
+    },
+    {
+      "id": 366,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Tara Brach",
+      "category": "mindfulness"
+    },
+    {
+      "id": 367,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Tara Brach",
+      "category": "freedom"
+    },
+    {
+      "id": 368,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Tara Brach",
+      "category": "wisdom"
+    },
+    {
+      "id": 369,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Tara Brach",
+      "category": "meditation"
+    },
+    {
+      "id": 370,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Tara Brach",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 371,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Tara Brach",
+      "category": "peace"
+    },
+    {
+      "id": 372,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Tara Brach",
+      "category": "mindfulness"
+    },
+    {
+      "id": 373,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Tara Brach",
+      "category": "wisdom"
+    },
+    {
+      "id": 374,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Tara Brach",
+      "category": "presence"
+    },
+    {
+      "id": 375,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Tara Brach",
+      "category": "meditation"
+    },
+    {
+      "id": 376,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Tara Brach",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 377,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Tara Brach",
+      "category": "freedom"
+    },
+    {
+      "id": 378,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Tara Brach",
+      "category": "mindfulness"
+    },
+    {
+      "id": 379,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Tara Brach",
+      "category": "wisdom"
+    },
+    {
+      "id": 380,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Tara Brach",
+      "category": "presence"
+    },
+    {
+      "id": 381,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Sylvia Boorstein",
+      "category": "mindfulness"
+    },
+    {
+      "id": 382,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sylvia Boorstein",
+      "category": "freedom"
+    },
+    {
+      "id": 383,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sylvia Boorstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 384,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sylvia Boorstein",
+      "category": "meditation"
+    },
+    {
+      "id": 385,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sylvia Boorstein",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 386,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Sylvia Boorstein",
+      "category": "peace"
+    },
+    {
+      "id": 387,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sylvia Boorstein",
+      "category": "mindfulness"
+    },
+    {
+      "id": 388,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sylvia Boorstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 389,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sylvia Boorstein",
+      "category": "presence"
+    },
+    {
+      "id": 390,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Sylvia Boorstein",
+      "category": "meditation"
+    },
+    {
+      "id": 391,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Sylvia Boorstein",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 392,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Sylvia Boorstein",
+      "category": "freedom"
+    },
+    {
+      "id": 393,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Sylvia Boorstein",
+      "category": "mindfulness"
+    },
+    {
+      "id": 394,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Sylvia Boorstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 395,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Sylvia Boorstein",
+      "category": "presence"
+    },
+    {
+      "id": 396,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Jon Kabat-Zinn",
+      "category": "mindfulness"
+    },
+    {
+      "id": 397,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Jon Kabat-Zinn",
+      "category": "freedom"
+    },
+    {
+      "id": 398,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Jon Kabat-Zinn",
+      "category": "wisdom"
+    },
+    {
+      "id": 399,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Jon Kabat-Zinn",
+      "category": "meditation"
+    },
+    {
+      "id": 400,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Jon Kabat-Zinn",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 401,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Jon Kabat-Zinn",
+      "category": "peace"
+    },
+    {
+      "id": 402,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Jon Kabat-Zinn",
+      "category": "mindfulness"
+    },
+    {
+      "id": 403,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Jon Kabat-Zinn",
+      "category": "wisdom"
+    },
+    {
+      "id": 404,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Jon Kabat-Zinn",
+      "category": "presence"
+    },
+    {
+      "id": 405,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Jon Kabat-Zinn",
+      "category": "meditation"
+    },
+    {
+      "id": 406,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Jon Kabat-Zinn",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 407,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Jon Kabat-Zinn",
+      "category": "freedom"
+    },
+    {
+      "id": 408,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Jon Kabat-Zinn",
+      "category": "mindfulness"
+    },
+    {
+      "id": 409,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Jon Kabat-Zinn",
+      "category": "wisdom"
+    },
+    {
+      "id": 410,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Jon Kabat-Zinn",
+      "category": "presence"
+    },
+    {
+      "id": 441,
+      "text": "The practice of mindfulness is not about trying to achieve anything but about being fully present with what is.",
+      "author": "Ajahn Brahm",
+      "category": "mindfulness"
+    },
+    {
+      "id": 442,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ajahn Brahm",
+      "category": "freedom"
+    },
+    {
+      "id": 443,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ajahn Brahm",
+      "category": "wisdom"
+    },
+    {
+      "id": 444,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ajahn Brahm",
+      "category": "meditation"
+    },
+    {
+      "id": 445,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ajahn Brahm",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 446,
+      "text": "The path to peace is not about changing the world but about changing our relationship to it.",
+      "author": "Ajahn Brahm",
+      "category": "peace"
+    },
+    {
+      "id": 447,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ajahn Brahm",
+      "category": "mindfulness"
+    },
+    {
+      "id": 448,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ajahn Brahm",
+      "category": "wisdom"
+    },
+    {
+      "id": 449,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ajahn Brahm",
+      "category": "presence"
+    },
+    {
+      "id": 450,
+      "text": "The practice of meditation is not about achieving special states but about understanding the nature of mind.",
+      "author": "Ajahn Brahm",
+      "category": "meditation"
+    },
+    {
+      "id": 451,
+      "text": "The cultivation of loving-kindness begins with oneself and extends to all beings.",
+      "author": "Ajahn Brahm",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 452,
+      "text": "The path to freedom is not about changing the world but about changing our relationship to it.",
+      "author": "Ajahn Brahm",
+      "category": "freedom"
+    },
+    {
+      "id": 453,
+      "text": "The practice of mindfulness is not about escaping from life but about fully engaging with it.",
+      "author": "Ajahn Brahm",
+      "category": "mindfulness"
+    },
+    {
+      "id": 454,
+      "text": "The cultivation of wisdom is not about accumulating knowledge but about seeing things as they are.",
+      "author": "Ajahn Brahm",
+      "category": "wisdom"
+    },
+    {
+      "id": 455,
+      "text": "The path of practice is not about becoming something else but about being fully present with what is.",
+      "author": "Ajahn Brahm",
+      "category": "presence"
+    },
+    {
+      "id": 456,
+      "text": "The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 457,
+      "text": "When we protect ourselves so we won't feel pain, that protection becomes like armor, like armor that imprisons the softness of the heart.",
+      "author": "Pema Chödrön",
+      "category": "freedom"
+    },
+    {
+      "id": 458,
+      "text": "The essence of bravery is being without self-deception. However, it's not so easy to take a straight look at what we do.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 459,
+      "text": "The most difficult times for many of us are the ones we give ourselves.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 460,
+      "text": "The only reason we don't open our hearts and minds to other people is that they trigger confusion in us that we haven't looked at.",
+      "author": "Pema Chödrön",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 461,
+      "text": "The truth you believe and cling to makes you unavailable to hear anything new.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 462,
+      "text": "The most important one is to remember that you are never alone.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 463,
+      "text": "The most fundamental message of the Buddha is that we can learn to work with our minds.",
+      "author": "Pema Chödrön",
+      "category": "meditation"
+    },
+    {
+      "id": 464,
+      "text": "The most important aspect of being on the spiritual path may be to just keep moving.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 465,
+      "text": "The most important thing is that we're all in this together.",
+      "author": "Pema Chödrön",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 466,
+      "text": "The most important thing is to remember that you are never alone.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 467,
+      "text": "The most important thing is to remember that you are never alone.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 468,
+      "text": "The most important thing is to remember that you are never alone.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 469,
+      "text": "The most important thing is to remember that you are never alone.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 470,
+      "text": "The most important thing is to remember that you are never alone.",
+      "author": "Pema Chödrön",
+      "category": "presence"
+    },
+    {
+      "id": 471,
+      "text": "The path of meditation is not about achieving a state of mind that is different from the one we have now. It is about being fully present with the mind we have.",
+      "author": "Dzigar Kongtrul Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 472,
+      "text": "The practice of mindfulness is not about trying to achieve anything. It is about being fully present with what is.",
+    },
+    {
+      "id": 501,
+      "text": "The practice of meditation is not about trying to achieve a special state of mind. It is about being fully present with the mind we have.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 502,
+      "text": "The most important thing is to remember that you are never alone. The nature of mind is always present.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "presence"
+    },
+    {
+      "id": 503,
+      "text": "The path of practice is not about becoming something else. It is about recognizing what we already are.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 504,
+      "text": "The cultivation of loving-kindness begins with recognizing our own basic goodness.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 505,
+      "text": "The practice of mindfulness is not about escaping from life. It is about fully engaging with it.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 506,
+      "text": "The path to freedom is not about changing the world. It is about changing our relationship to it.",
       "author": "Tsoknyi Rinpoche",
       "category": "freedom"
     },
     {
-      "id": 216,
-      "text": "The bad news is you're falling through the air, nothing to hang on to, no parachute. The good news is, there's no ground.",
-      "author": "Chögyam Trungpa Rinpoche",
+      "id": 507,
+      "text": "The cultivation of wisdom is not about accumulating knowledge. It is about seeing things as they are.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 508,
+      "text": "The practice of meditation is not about achieving special states. It is about understanding the nature of mind.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 509,
+      "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 510,
+      "text": "The most important thing is to remember that you are never alone. The nature of mind is always present.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "presence"
+    },
+    {
+      "id": 511,
+      "text": "The practice of mindfulness is not about escaping from life. It is about fully engaging with it.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 512,
+      "text": "The path to freedom is not about changing the world. It is about changing our relationship to it.",
+      "author": "Tsoknyi Rinpoche",
       "category": "freedom"
     },
     {
-      "id": 217,
-      "text": "The essence of warriorship, or the essence of human bravery, is refusing to give up on anyone or anything.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "courage"
+      "id": 513,
+      "text": "The cultivation of wisdom is not about accumulating knowledge. It is about seeing things as they are.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "wisdom"
     },
     {
-      "id": 218,
-      "text": "The practice of meditation is not about trying to throw ourselves away and become something better. It's about befriending who we are.",
-      "author": "Chögyam Trungpa Rinpoche",
+      "id": 514,
+      "text": "The practice of meditation is not about achieving special states. It is about understanding the nature of mind.",
+      "author": "Tsoknyi Rinpoche",
       "category": "meditation"
     },
     {
-      "id": 219,
-      "text": "The key to feeling at home with your body, mind, and emotions, to feeling worthy to live on this earth, is to be willing to die, to make friends with impermanence.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "impermanence"
-    },
-    {
-      "id": 220,
-      "text": "The essence of bravery is being without self-deception.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "courage"
-    },
-    {
-      "id": 221,
-      "text": "The practice of mindfulness is not about trying to achieve anything at all. It's about allowing yourself to be exactly as you are.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "mindfulness"
-    },
-    {
-      "id": 222,
-      "text": "The path is not about becoming something. It's about unbecoming everything that isn't really you.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "enlightenment"
-    },
-    {
-      "id": 223,
-      "text": "The essence of warriorship is not being afraid of who you are.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "courage"
-    },
-    {
-      "id": 224,
-      "text": "The practice of meditation is not about trying to throw ourselves away and become something better. It's about befriending who we are.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "meditation"
-    },
-    {
-      "id": 225,
-      "text": "The key to feeling at home with your body, mind, and emotions, to feeling worthy to live on this earth, is to be willing to die, to make friends with impermanence.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "impermanence"
-    },
-    {
-      "id": 226,
-      "text": "The essence of bravery is being without self-deception.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "courage"
-    },
-    {
-      "id": 227,
-      "text": "The practice of mindfulness is not about trying to achieve anything at all. It's about allowing yourself to be exactly as you are.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "mindfulness"
-    },
-    {
-      "id": 228,
-      "text": "The path is not about becoming something. It's about unbecoming everything that isn't really you.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "enlightenment"
-    },
-    {
-      "id": 229,
-      "text": "The essence of warriorship is not being afraid of who you are.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "courage"
-    },
-    {
-      "id": 230,
-      "text": "The practice of meditation is not about trying to throw ourselves away and become something better. It's about befriending who we are.",
-      "author": "Chögyam Trungpa Rinpoche",
-      "category": "meditation"
+      "id": 515,
+      "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "peace"
     }
   ]
 } 
