@@ -2648,7 +2648,7 @@
     },
     {
       "id": 472,
-      "text": "The practice of mindfulness is not about trying to achieve anything. It is about being fully present with what is.",
+      "text": "The practice of mindfulness is not about trying to achieve anything. It is about being fully present with what is."
     },
     {
       "id": 501,
@@ -2738,6 +2738,186 @@
       "id": 515,
       "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
       "author": "Tsoknyi Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 516,
+      "text": "The practice of meditation is not about trying to achieve a special state of mind. It is about being fully present with the mind we have.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 517,
+      "text": "The most important thing is to remember that you are never alone. The nature of mind is always present.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "presence"
+    },
+    {
+      "id": 518,
+      "text": "The path of practice is not about becoming something else. It is about recognizing what we already are.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 519,
+      "text": "The cultivation of loving-kindness begins with recognizing our own basic goodness.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 520,
+      "text": "The practice of mindfulness is not about escaping from life. It is about fully engaging with it.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 521,
+      "text": "The path to freedom is not about changing the world. It is about changing our relationship to it.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 522,
+      "text": "The cultivation of wisdom is not about accumulating knowledge. It is about seeing things as they are.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 523,
+      "text": "The practice of meditation is not about achieving special states. It is about understanding the nature of mind.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 524,
+      "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 525,
+      "text": "The most important thing is to remember that you are never alone. The nature of mind is always present.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "presence"
+    },
+    {
+      "id": 526,
+      "text": "The practice of mindfulness is not about escaping from life. It is about fully engaging with it.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 527,
+      "text": "The path to freedom is not about changing the world. It is about changing our relationship to it.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 528,
+      "text": "The cultivation of wisdom is not about accumulating knowledge. It is about seeing things as they are.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 529,
+      "text": "The practice of meditation is not about achieving special states. It is about understanding the nature of mind.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 530,
+      "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
+      "author": "Yongey Mingyur Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 531,
+      "text": "The practice of meditation is not about trying to achieve a special state of mind. It is about being fully present with the mind we have.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 532,
+      "text": "The most important thing is to remember that you are never alone. The nature of mind is always present.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "presence"
+    },
+    {
+      "id": 533,
+      "text": "The path of practice is not about becoming something else. It is about recognizing what we already are.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 534,
+      "text": "The cultivation of loving-kindness begins with recognizing our own basic goodness.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "loving-kindness"
+    },
+    {
+      "id": 535,
+      "text": "The practice of mindfulness is not about escaping from life. It is about fully engaging with it.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 536,
+      "text": "The path to freedom is not about changing the world. It is about changing our relationship to it.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 537,
+      "text": "The cultivation of wisdom is not about accumulating knowledge. It is about seeing things as they are.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 538,
+      "text": "The practice of meditation is not about achieving special states. It is about understanding the nature of mind.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 539,
+      "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 540,
+      "text": "The most important thing is to remember that you are never alone. The nature of mind is always present.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "presence"
+    },
+    {
+      "id": 541,
+      "text": "The practice of mindfulness is not about escaping from life. It is about fully engaging with it.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 542,
+      "text": "The path to freedom is not about changing the world. It is about changing our relationship to it.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 543,
+      "text": "The cultivation of wisdom is not about accumulating knowledge. It is about seeing things as they are.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 544,
+      "text": "The practice of meditation is not about achieving special states. It is about understanding the nature of mind.",
+      "author": "Dzongsar Khyentse Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 545,
+      "text": "The path to peace is not about changing the world. It is about changing our relationship to it.",
+      "author": "Dzongsar Khyentse Rinpoche",
       "category": "peace"
     }
   ]
