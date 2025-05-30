@@ -1,0 +1,34 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "category": "peace"
+    },
+    {
+      "id": 2,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "mindfulness"
+    },
+    {
+      "id": 3,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 4,
+      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "author": "Buddha",
+      "category": "self-love"
+    },
+    {
+      "id": 5,
+      "text": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+      "author": "Buddha",
+      "category": "wisdom"
+    }
+  ]
+} 
