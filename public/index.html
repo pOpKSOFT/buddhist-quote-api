@@ -149,17 +149,32 @@
     </div>
 
     <script>
-        const API_BASE_URL = 'http://localhost:10000/api';
+        // Get the current host and port
+        const API_BASE_URL = window.location.hostname === 'localhost' 
+            ? 'http://localhost:10000/api'
+            : '/api'; // When deployed, use relative path
 
         async function fetchQuotes(endpoint) {
             try {
-                const response = await fetch(`${API_BASE_URL}${endpoint}`);
+                console.log(`Fetching from: ${API_BASE_URL}${endpoint}`); // Debug log
+                const response = await fetch(`${API_BASE_URL}${endpoint}`, {
+                    method: 'GET',
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    }
+                });
+                
                 if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
+                    const errorData = await response.json().catch(() => ({}));
+                    throw new Error(errorData.message || `HTTP error! status: ${response.status}`);
                 }
-                return await response.json();
+                
+                const data = await response.json();
+                return data;
             } catch (error) {
-                showError(error.message);
+                console.error('Fetch error:', error); // Debug log
+                showError(`Failed to fetch quotes: ${error.message}`);
                 return null;
             }
         }
