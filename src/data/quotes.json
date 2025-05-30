@@ -29,6 +29,666 @@
       "text": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
       "author": "Buddha",
       "category": "wisdom"
+    },
+    {
+      "id": 6,
+      "text": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+      "author": "Buddha",
+      "category": "anger"
+    },
+    {
+      "id": 7,
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 8,
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "category": "mindfulness"
+    },
+    {
+      "id": 9,
+      "text": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+      "author": "Buddha",
+      "category": "happiness"
+    },
+    {
+      "id": 10,
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 11,
+      "text": "Better than a thousand hollow words, is one word that brings peace.",
+      "author": "Buddha",
+      "category": "peace"
+    },
+    {
+      "id": 12,
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "category": "purpose"
+    },
+    {
+      "id": 13,
+      "text": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+      "author": "Buddha",
+      "category": "self-reliance"
+    },
+    {
+      "id": 14,
+      "text": "The trouble is, you think you have time.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 15,
+      "text": "To understand everything is to forgive everything.",
+      "author": "Buddha",
+      "category": "forgiveness"
+    },
+    {
+      "id": 16,
+      "text": "A jug fills drop by drop.",
+      "author": "Buddha",
+      "category": "patience"
+    },
+    {
+      "id": 17,
+      "text": "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+      "author": "Buddha",
+      "category": "spirituality"
+    },
+    {
+      "id": 18,
+      "text": "The only real failure in life is not to be true to the best one knows.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 19,
+      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "author": "Buddha",
+      "category": "mindfulness"
+    },
+    {
+      "id": 20,
+      "text": "The greatest prayer is patience.",
+      "author": "Buddha",
+      "category": "patience"
+    },
+    {
+      "id": 21,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "category": "mindfulness"
+    },
+    {
+      "id": 22,
+      "text": "The past is already gone, the future is not yet here. There's only one moment for you to live.",
+      "author": "Buddha",
+      "category": "mindfulness"
+    },
+    {
+      "id": 23,
+      "text": "If you light a lamp for somebody, it will also brighten your path.",
+      "author": "Buddha",
+      "category": "kindness"
+    },
+    {
+      "id": 24,
+      "text": "The tongue like a sharp knife... Kills without drawing blood.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 25,
+      "text": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.",
+      "author": "Buddha",
+      "category": "wisdom"
+    },
+    {
+      "id": 26,
+      "text": "When you realize how perfect everything is, you will tilt your head back and laugh at the sky.",
+      "author": "Buddha",
+      "category": "enlightenment"
+    },
+    {
+      "id": 27,
+      "text": "The only way to bring peace to the earth is to learn to make our own life peaceful.",
+      "author": "Thich Nhat Hanh",
+      "category": "peace"
+    },
+    {
+      "id": 28,
+      "text": "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.",
+      "author": "Thich Nhat Hanh",
+      "category": "mindfulness"
+    },
+    {
+      "id": 29,
+      "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "author": "Thich Nhat Hanh",
+      "category": "happiness"
+    },
+    {
+      "id": 30,
+      "text": "Understanding means throwing away your knowledge.",
+      "author": "Thich Nhat Hanh",
+      "category": "wisdom"
+    },
+    {
+      "id": 31,
+      "text": "The seed of suffering in you may be strong, but don't wait until you have no more suffering before allowing yourself to be happy.",
+      "author": "Thich Nhat Hanh",
+      "category": "happiness"
+    },
+    {
+      "id": 32,
+      "text": "The most precious gift we can offer others is our presence.",
+      "author": "Thich Nhat Hanh",
+      "category": "mindfulness"
+    },
+    {
+      "id": 33,
+      "text": "The mind is like water. When it's turbulent, it's difficult to see. When it's calm, everything becomes clear.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 34,
+      "text": "You are the sky. Everything else is just the weather.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 35,
+      "text": "The most difficult times for many of us are the ones we give ourselves.",
+      "author": "Pema Chödrön",
+      "category": "self-compassion"
+    },
+    {
+      "id": 36,
+      "text": "Nothing ever goes away until it has taught us what we need to know.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 37,
+      "text": "The greatest obstacle to connecting with our joy is resentment.",
+      "author": "Pema Chödrön",
+      "category": "happiness"
+    },
+    {
+      "id": 38,
+      "text": "The best way to take care of the future is to take care of the present moment.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 39,
+      "text": "The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently.",
+      "author": "Pema Chödrön",
+      "category": "self-awareness"
+    },
+    {
+      "id": 40,
+      "text": "The essence of bravery is being without self-deception.",
+      "author": "Pema Chödrön",
+      "category": "courage"
+    },
+    {
+      "id": 41,
+      "text": "The most important point is to accept yourself and stand on your two feet.",
+      "author": "Shunryu Suzuki",
+      "category": "self-acceptance"
+    },
+    {
+      "id": 42,
+      "text": "In the beginner's mind there are many possibilities, but in the expert's there are few.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 43,
+      "text": "When you do something, you should burn yourself completely, like a good bonfire, leaving no trace of yourself.",
+      "author": "Shunryu Suzuki",
+      "category": "dedication"
+    },
+    {
+      "id": 44,
+      "text": "The most important thing is to find out what is the most important thing.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 45,
+      "text": "When you try to stop activity to achieve passivity, your very effort fills you with activity.",
+      "author": "Shunryu Suzuki",
+      "category": "meditation"
+    },
+    {
+      "id": 46,
+      "text": "The most difficult thing is always to keep your beginner's mind.",
+      "author": "Shunryu Suzuki",
+      "category": "mindfulness"
+    },
+    {
+      "id": 47,
+      "text": "The practice of Zen is forgetting the self in the act of uniting with something.",
+      "author": "Shunryu Suzuki",
+      "category": "meditation"
+    },
+    {
+      "id": 48,
+      "text": "The most important thing is to express your true nature in the simplest, most adequate way and to appreciate it in the smallest existence.",
+      "author": "Shunryu Suzuki",
+      "category": "authenticity"
+    },
+    {
+      "id": 49,
+      "text": "The way to control your cow or sheep is to give them a large, spacious meadow.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 50,
+      "text": "The most important thing is to find out what is the most important thing.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 51,
+      "text": "The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed.",
+      "author": "Buddha",
+      "category": "freedom"
+    },
+    {
+      "id": 52,
+      "text": "The only way to bring peace to the earth is to learn to make our own life peaceful.",
+      "author": "Thich Nhat Hanh",
+      "category": "peace"
+    },
+    {
+      "id": 53,
+      "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "author": "Thich Nhat Hanh",
+      "category": "happiness"
+    },
+    {
+      "id": 54,
+      "text": "Understanding means throwing away your knowledge.",
+      "author": "Thich Nhat Hanh",
+      "category": "wisdom"
+    },
+    {
+      "id": 55,
+      "text": "The seed of suffering in you may be strong, but don't wait until you have no more suffering before allowing yourself to be happy.",
+      "author": "Thich Nhat Hanh",
+      "category": "happiness"
+    },
+    {
+      "id": 56,
+      "text": "The most precious gift we can offer others is our presence.",
+      "author": "Thich Nhat Hanh",
+      "category": "mindfulness"
+    },
+    {
+      "id": 57,
+      "text": "The mind is like water. When it's turbulent, it's difficult to see. When it's calm, everything becomes clear.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 58,
+      "text": "You are the sky. Everything else is just the weather.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 59,
+      "text": "The most difficult times for many of us are the ones we give ourselves.",
+      "author": "Pema Chödrön",
+      "category": "self-compassion"
+    },
+    {
+      "id": 60,
+      "text": "Nothing ever goes away until it has taught us what we need to know.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 61,
+      "text": "The greatest obstacle to connecting with our joy is resentment.",
+      "author": "Pema Chödrön",
+      "category": "happiness"
+    },
+    {
+      "id": 62,
+      "text": "The best way to take care of the future is to take care of the present moment.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 63,
+      "text": "The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently.",
+      "author": "Pema Chödrön",
+      "category": "self-awareness"
+    },
+    {
+      "id": 64,
+      "text": "The essence of bravery is being without self-deception.",
+      "author": "Pema Chödrön",
+      "category": "courage"
+    },
+    {
+      "id": 65,
+      "text": "The most important point is to accept yourself and stand on your two feet.",
+      "author": "Shunryu Suzuki",
+      "category": "self-acceptance"
+    },
+    {
+      "id": 66,
+      "text": "In the beginner's mind there are many possibilities, but in the expert's there are few.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 67,
+      "text": "When you do something, you should burn yourself completely, like a good bonfire, leaving no trace of yourself.",
+      "author": "Shunryu Suzuki",
+      "category": "dedication"
+    },
+    {
+      "id": 68,
+      "text": "The most important thing is to find out what is the most important thing.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 69,
+      "text": "When you try to stop activity to achieve passivity, your very effort fills you with activity.",
+      "author": "Shunryu Suzuki",
+      "category": "meditation"
+    },
+    {
+      "id": 70,
+      "text": "The most difficult thing is always to keep your beginner's mind.",
+      "author": "Shunryu Suzuki",
+      "category": "mindfulness"
+    },
+    {
+      "id": 71,
+      "text": "The practice of Zen is forgetting the self in the act of uniting with something.",
+      "author": "Shunryu Suzuki",
+      "category": "meditation"
+    },
+    {
+      "id": 72,
+      "text": "The most important thing is to express your true nature in the simplest, most adequate way and to appreciate it in the smallest existence.",
+      "author": "Shunryu Suzuki",
+      "category": "authenticity"
+    },
+    {
+      "id": 73,
+      "text": "The way to control your cow or sheep is to give them a large, spacious meadow.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 74,
+      "text": "The most important thing is to find out what is the most important thing.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 75,
+      "text": "When you realize how perfect everything is, you will tilt your head back and laugh at the sky.",
+      "author": "Buddha",
+      "category": "enlightenment"
+    },
+    {
+      "id": 76,
+      "text": "The only way to bring peace to the earth is to learn to make our own life peaceful.",
+      "author": "Thich Nhat Hanh",
+      "category": "peace"
+    },
+    {
+      "id": 77,
+      "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "author": "Thich Nhat Hanh",
+      "category": "happiness"
+    },
+    {
+      "id": 78,
+      "text": "Understanding means throwing away your knowledge.",
+      "author": "Thich Nhat Hanh",
+      "category": "wisdom"
+    },
+    {
+      "id": 79,
+      "text": "The seed of suffering in you may be strong, but don't wait until you have no more suffering before allowing yourself to be happy.",
+      "author": "Thich Nhat Hanh",
+      "category": "happiness"
+    },
+    {
+      "id": 80,
+      "text": "The most precious gift we can offer others is our presence.",
+      "author": "Thich Nhat Hanh",
+      "category": "mindfulness"
+    },
+    {
+      "id": 81,
+      "text": "The mind is like water. When it's turbulent, it's difficult to see. When it's calm, everything becomes clear.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 82,
+      "text": "You are the sky. Everything else is just the weather.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 83,
+      "text": "The most difficult times for many of us are the ones we give ourselves.",
+      "author": "Pema Chödrön",
+      "category": "self-compassion"
+    },
+    {
+      "id": 84,
+      "text": "Nothing ever goes away until it has taught us what we need to know.",
+      "author": "Pema Chödrön",
+      "category": "wisdom"
+    },
+    {
+      "id": 85,
+      "text": "The greatest obstacle to connecting with our joy is resentment.",
+      "author": "Pema Chödrön",
+      "category": "happiness"
+    },
+    {
+      "id": 86,
+      "text": "The best way to take care of the future is to take care of the present moment.",
+      "author": "Pema Chödrön",
+      "category": "mindfulness"
+    },
+    {
+      "id": 87,
+      "text": "The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently.",
+      "author": "Pema Chödrön",
+      "category": "self-awareness"
+    },
+    {
+      "id": 88,
+      "text": "The essence of bravery is being without self-deception.",
+      "author": "Pema Chödrön",
+      "category": "courage"
+    },
+    {
+      "id": 89,
+      "text": "The most important point is to accept yourself and stand on your two feet.",
+      "author": "Shunryu Suzuki",
+      "category": "self-acceptance"
+    },
+    {
+      "id": 90,
+      "text": "In the beginner's mind there are many possibilities, but in the expert's there are few.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 91,
+      "text": "When you do something, you should burn yourself completely, like a good bonfire, leaving no trace of yourself.",
+      "author": "Shunryu Suzuki",
+      "category": "dedication"
+    },
+    {
+      "id": 92,
+      "text": "The most important thing is to find out what is the most important thing.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 93,
+      "text": "When you try to stop activity to achieve passivity, your very effort fills you with activity.",
+      "author": "Shunryu Suzuki",
+      "category": "meditation"
+    },
+    {
+      "id": 94,
+      "text": "The most difficult thing is always to keep your beginner's mind.",
+      "author": "Shunryu Suzuki",
+      "category": "mindfulness"
+    },
+    {
+      "id": 95,
+      "text": "The practice of Zen is forgetting the self in the act of uniting with something.",
+      "author": "Shunryu Suzuki",
+      "category": "meditation"
+    },
+    {
+      "id": 96,
+      "text": "The most important thing is to express your true nature in the simplest, most adequate way and to appreciate it in the smallest existence.",
+      "author": "Shunryu Suzuki",
+      "category": "authenticity"
+    },
+    {
+      "id": 97,
+      "text": "The way to control your cow or sheep is to give them a large, spacious meadow.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 98,
+      "text": "The most important thing is to find out what is the most important thing.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom"
+    },
+    {
+      "id": 99,
+      "text": "When you realize how perfect everything is, you will tilt your head back and laugh at the sky.",
+      "author": "Buddha",
+      "category": "enlightenment"
+    },
+    {
+      "id": 100,
+      "text": "The only way to bring peace to the earth is to learn to make our own life peaceful.",
+      "author": "Thich Nhat Hanh",
+      "category": "peace"
+    },
+    {
+      "id": 101,
+      "text": "The greatest wealth is contentment. The greatest happiness is peace of mind.",
+      "author": "Master Hsing Yun",
+      "category": "happiness"
+    },
+    {
+      "id": 102,
+      "text": "A person who is truly happy is one who can enjoy the scenery on a detour.",
+      "author": "Master Hsing Yun",
+      "category": "mindfulness"
+    },
+    {
+      "id": 103,
+      "text": "The greatest charity is to help others to help themselves.",
+      "author": "Master Hsing Yun",
+      "category": "kindness"
+    },
+    {
+      "id": 104,
+      "text": "The greatest wisdom is to know that you know nothing.",
+      "author": "Master Hsing Yun",
+      "category": "wisdom"
+    },
+    {
+      "id": 105,
+      "text": "The greatest strength is gentleness.",
+      "author": "Master Hsing Yun",
+      "category": "peace"
+    },
+    {
+      "id": 106,
+      "text": "The greatest joy is to be free from worry.",
+      "author": "Master Hsing Yun",
+      "category": "happiness"
+    },
+    {
+      "id": 107,
+      "text": "The greatest wealth is health.",
+      "author": "Master Hsing Yun",
+      "category": "wellness"
+    },
+    {
+      "id": 108,
+      "text": "The greatest success is to be able to help others succeed.",
+      "author": "Master Hsing Yun",
+      "category": "compassion"
+    },
+    {
+      "id": 109,
+      "text": "The greatest virtue is to be able to forgive.",
+      "author": "Master Hsing Yun",
+      "category": "forgiveness"
+    },
+    {
+      "id": 110,
+      "text": "The greatest power is to be able to control oneself.",
+      "author": "Master Hsing Yun",
+      "category": "self-control"
+    },
+    {
+      "id": 111,
+      "text": "The greatest happiness is to be able to give happiness to others.",
+      "author": "Master Hsing Yun",
+      "category": "happiness"
+    },
+    {
+      "id": 112,
+      "text": "The greatest peace is to be able to live in harmony with others.",
+      "author": "Master Hsing Yun",
+      "category": "peace"
+    },
+    {
+      "id": 113,
+      "text": "The greatest wisdom is to know how to be content with what one has.",
+      "author": "Master Hsing Yun",
+      "category": "wisdom"
+    },
+    {
+      "id": 114,
+      "text": "The greatest courage is to be able to face one's own mistakes.",
+      "author": "Master Hsing Yun",
+      "category": "courage"
+    },
+    {
+      "id": 115,
+      "text": "The greatest love is to be able to love without expecting anything in return.",
+      "author": "Master Hsing Yun",
+      "category": "compassion"
     }
   ]
 } 
