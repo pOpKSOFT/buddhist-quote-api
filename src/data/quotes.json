@@ -689,6 +689,696 @@
       "text": "The greatest love is to be able to love without expecting anything in return.",
       "author": "Master Hsing Yun",
       "category": "compassion"
+    },
+    {
+      "id": 116,
+      "text": "To study the Buddha Way is to study the self. To study the self is to forget the self. To forget the self is to be enlightened by all things.",
+      "author": "Dogen Zenji",
+      "category": "enlightenment"
+    },
+    {
+      "id": 117,
+      "text": "When you find your place where you are, practice occurs.",
+      "author": "Dogen Zenji",
+      "category": "mindfulness"
+    },
+    {
+      "id": 118,
+      "text": "The entire universe is the true human body.",
+      "author": "Dogen Zenji",
+      "category": "interconnectedness"
+    },
+    {
+      "id": 119,
+      "text": "Do not think that you will necessarily be aware of your own enlightenment.",
+      "author": "Dogen Zenji",
+      "category": "wisdom"
+    },
+    {
+      "id": 120,
+      "text": "The practice of zazen is the direct expression of our true nature.",
+      "author": "Dogen Zenji",
+      "category": "meditation"
+    },
+    {
+      "id": 121,
+      "text": "The way is not difficult for those who have no preferences.",
+      "author": "Dogen Zenji",
+      "category": "detachment"
+    },
+    {
+      "id": 122,
+      "text": "The mind that is not disturbed by things as they occur is the true mind.",
+      "author": "Dogen Zenji",
+      "category": "equanimity"
+    },
+    {
+      "id": 123,
+      "text": "The practice of the Way is not a matter of time.",
+      "author": "Dogen Zenji",
+      "category": "dedication"
+    },
+    {
+      "id": 124,
+      "text": "The entire universe is the true human body. The entire universe is the gate of liberation.",
+      "author": "Dogen Zenji",
+      "category": "interconnectedness"
+    },
+    {
+      "id": 125,
+      "text": "The practice of the Way is not a matter of time.",
+      "author": "Dogen Zenji",
+      "category": "dedication"
+    },
+    {
+      "id": 126,
+      "text": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace. If you let go completely, you will have complete peace.",
+      "author": "Ajahn Chah",
+      "category": "peace"
+    },
+    {
+      "id": 127,
+      "text": "The mind is like a monkey swinging from branch to branch. We have to train it to stay still.",
+      "author": "Ajahn Chah",
+      "category": "mindfulness"
+    },
+    {
+      "id": 128,
+      "text": "Everything is teaching us. Even a tree can teach us. When we see that it sways back and forth in the wind, we see that it's not rigid, and we can learn to be flexible too.",
+      "author": "Ajahn Chah",
+      "category": "wisdom"
+    },
+    {
+      "id": 129,
+      "text": "If you want to see the truth, then don't hold on to opinions for or against anything.",
+      "author": "Ajahn Chah",
+      "category": "detachment"
+    },
+    {
+      "id": 130,
+      "text": "The heart is like a garden. It can grow compassion or fear, resentment or love. What seeds will you plant there?",
+      "author": "Ajahn Chah",
+      "category": "compassion"
+    },
+    {
+      "id": 131,
+      "text": "If you want to be free, you must be willing to let go of everything.",
+      "author": "Ajahn Chah",
+      "category": "freedom"
+    },
+    {
+      "id": 132,
+      "text": "The practice is not about being perfect. It's about being present.",
+      "author": "Ajahn Chah",
+      "category": "mindfulness"
+    },
+    {
+      "id": 133,
+      "text": "When you understand the nature of things, you don't need to force anything.",
+      "author": "Ajahn Chah",
+      "category": "wisdom"
+    },
+    {
+      "id": 134,
+      "text": "The mind is everything. What you think, you become.",
+      "author": "Ajahn Chah",
+      "category": "self-awareness"
+    },
+    {
+      "id": 135,
+      "text": "If you want to be happy, you must first understand that you are the source of your own happiness.",
+      "author": "Ajahn Chah",
+      "category": "happiness"
+    },
+    {
+      "id": 136,
+      "text": "The practice is not about changing yourself. It's about seeing yourself clearly.",
+      "author": "Ajahn Chah",
+      "category": "self-acceptance"
+    },
+    {
+      "id": 137,
+      "text": "When you understand the nature of impermanence, you will find peace.",
+      "author": "Ajahn Chah",
+      "category": "impermanence"
+    },
+    {
+      "id": 138,
+      "text": "The mind is like water. When it's still, it reflects everything clearly.",
+      "author": "Ajahn Chah",
+      "category": "clarity"
+    },
+    {
+      "id": 139,
+      "text": "If you want to be free, you must be willing to let go of everything.",
+      "author": "Ajahn Chah",
+      "category": "freedom"
+    },
+    {
+      "id": 140,
+      "text": "The practice is not about being perfect. It's about being present.",
+      "author": "Ajahn Chah",
+      "category": "mindfulness"
+    },
+    {
+      "id": 141,
+      "text": "Zazen is good for nothing. That's why it's so valuable.",
+      "author": "Kodo Sawaki",
+      "category": "meditation"
+    },
+    {
+      "id": 142,
+      "text": "The self is a fiction. When you sit, you are just sitting.",
+      "author": "Kodo Sawaki",
+      "category": "self-awareness"
+    },
+    {
+      "id": 143,
+      "text": "Don't be fooled by your own thoughts. They are just passing clouds.",
+      "author": "Kodo Sawaki",
+      "category": "mindfulness"
+    },
+    {
+      "id": 144,
+      "text": "The way is not about becoming something. It's about being nothing.",
+      "author": "Kodo Sawaki",
+      "category": "enlightenment"
+    },
+    {
+      "id": 145,
+      "text": "When you sit, you are the universe sitting.",
+      "author": "Kodo Sawaki",
+      "category": "interconnectedness"
+    },
+    {
+      "id": 146,
+      "text": "Don't try to be special. Just be ordinary.",
+      "author": "Kodo Sawaki",
+      "category": "simplicity"
+    },
+    {
+      "id": 147,
+      "text": "The mind that seeks is the mind that suffers.",
+      "author": "Kodo Sawaki",
+      "category": "detachment"
+    },
+    {
+      "id": 148,
+      "text": "When you sit, you are the Buddha. When you stand, you are the Buddha. When you walk, you are the Buddha.",
+      "author": "Kodo Sawaki",
+      "category": "enlightenment"
+    },
+    {
+      "id": 149,
+      "text": "Don't try to understand. Just sit.",
+      "author": "Kodo Sawaki",
+      "category": "meditation"
+    },
+    {
+      "id": 150,
+      "text": "The way is not about gaining anything. It's about losing everything.",
+      "author": "Kodo Sawaki",
+      "category": "detachment"
+    },
+    {
+      "id": 151,
+      "text": "When you sit, you are the entire universe.",
+      "author": "Kodo Sawaki",
+      "category": "interconnectedness"
+    },
+    {
+      "id": 152,
+      "text": "Don't try to be someone else. Just be yourself.",
+      "author": "Kodo Sawaki",
+      "category": "authenticity"
+    },
+    {
+      "id": 153,
+      "text": "The way is not about becoming. It's about unbecoming.",
+      "author": "Kodo Sawaki",
+      "category": "enlightenment"
+    },
+    {
+      "id": 154,
+      "text": "When you sit, you are the entire world.",
+      "author": "Kodo Sawaki",
+      "category": "interconnectedness"
+    },
+    {
+      "id": 155,
+      "text": "Don't try to be special. Just be ordinary.",
+      "author": "Kodo Sawaki",
+      "category": "simplicity"
+    },
+    {
+      "id": 156,
+      "text": "The nature of mind is like space. It is vast, open, and free from limitations.",
+      "author": "Kalu Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 157,
+      "text": "When we understand that all phenomena are like dreams, we are free from attachment.",
+      "author": "Kalu Rinpoche",
+      "category": "detachment"
+    },
+    {
+      "id": 158,
+      "text": "The essence of meditation is to rest in the natural state of mind.",
+      "author": "Kalu Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 159,
+      "text": "Compassion is the wish that all beings be free from suffering.",
+      "author": "Kalu Rinpoche",
+      "category": "compassion"
+    },
+    {
+      "id": 160,
+      "text": "The true nature of mind is like a mirror, reflecting everything without judgment.",
+      "author": "Kalu Rinpoche",
+      "category": "clarity"
+    },
+    {
+      "id": 161,
+      "text": "When we recognize the nature of mind, we discover our innate wisdom.",
+      "author": "Kalu Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 162,
+      "text": "The practice of loving-kindness begins with ourselves.",
+      "author": "Kalu Rinpoche",
+      "category": "self-compassion"
+    },
+    {
+      "id": 163,
+      "text": "In the space of awareness, all thoughts are like clouds passing through the sky.",
+      "author": "Kalu Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 164,
+      "text": "The path to enlightenment is the path of letting go.",
+      "author": "Kalu Rinpoche",
+      "category": "enlightenment"
+    },
+    {
+      "id": 165,
+      "text": "When we understand impermanence, we understand the nature of reality.",
+      "author": "Kalu Rinpoche",
+      "category": "impermanence"
+    },
+    {
+      "id": 166,
+      "text": "The mind is like a vast ocean, and thoughts are like waves on its surface.",
+      "author": "Kalu Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 167,
+      "text": "True peace comes from understanding the nature of mind.",
+      "author": "Kalu Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 168,
+      "text": "The practice of meditation is the practice of being present.",
+      "author": "Kalu Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 169,
+      "text": "When we see the true nature of things, we are free from delusion.",
+      "author": "Kalu Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 170,
+      "text": "The heart of practice is to recognize our true nature.",
+      "author": "Kalu Rinpoche",
+      "category": "self-awareness"
+    },
+    {
+      "id": 171,
+      "text": "The mind is like a mirror. It reflects everything but is not affected by what it reflects.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 172,
+      "text": "The nature of mind is like space. It is vast, open, and free from limitations.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 173,
+      "text": "When we understand that all phenomena are like dreams, we are free from attachment.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "detachment"
+    },
+    {
+      "id": 174,
+      "text": "The essence of meditation is to rest in the natural state of mind.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 175,
+      "text": "Compassion is the wish that all beings be free from suffering.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "compassion"
+    },
+    {
+      "id": 176,
+      "text": "The true nature of mind is like a mirror, reflecting everything without judgment.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "clarity"
+    },
+    {
+      "id": 177,
+      "text": "When we recognize the nature of mind, we discover our innate wisdom.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 178,
+      "text": "The practice of loving-kindness begins with ourselves.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "self-compassion"
+    },
+    {
+      "id": 179,
+      "text": "In the space of awareness, all thoughts are like clouds passing through the sky.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 180,
+      "text": "The path to enlightenment is the path of letting go.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "enlightenment"
+    },
+    {
+      "id": 181,
+      "text": "When we understand impermanence, we understand the nature of reality.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "impermanence"
+    },
+    {
+      "id": 182,
+      "text": "The mind is like a vast ocean, and thoughts are like waves on its surface.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 183,
+      "text": "True peace comes from understanding the nature of mind.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 184,
+      "text": "The practice of meditation is the practice of being present.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 185,
+      "text": "When we see the true nature of things, we are free from delusion.",
+      "author": "Dilgo Khyentse Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 186,
+      "text": "The mind is like a clear sky. Thoughts are like clouds that come and go.",
+      "author": "Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 187,
+      "text": "Happiness is not something you find. It's something you are.",
+      "author": "Mingyur Rinpoche",
+      "category": "happiness"
+    },
+    {
+      "id": 188,
+      "text": "The practice of meditation is not about changing who you are, but about recognizing who you are.",
+      "author": "Mingyur Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 189,
+      "text": "When we understand that our thoughts are not who we are, we find freedom.",
+      "author": "Mingyur Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 190,
+      "text": "The nature of mind is like space. It is vast, open, and free from limitations.",
+      "author": "Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 191,
+      "text": "Compassion is not just a feeling. It's a way of being in the world.",
+      "author": "Mingyur Rinpoche",
+      "category": "compassion"
+    },
+    {
+      "id": 192,
+      "text": "The practice of awareness is the practice of being fully present.",
+      "author": "Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 193,
+      "text": "When we see the true nature of mind, we discover our innate wisdom.",
+      "author": "Mingyur Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 194,
+      "text": "The path to peace is not about changing the world, but about changing our relationship to it.",
+      "author": "Mingyur Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 195,
+      "text": "The practice of meditation is the practice of being at home in the present moment.",
+      "author": "Mingyur Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 196,
+      "text": "When we understand that everything is impermanent, we can appreciate each moment fully.",
+      "author": "Mingyur Rinpoche",
+      "category": "impermanence"
+    },
+    {
+      "id": 197,
+      "text": "The mind is like a vast ocean, and thoughts are like waves on its surface.",
+      "author": "Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 198,
+      "text": "The practice of awareness is the practice of being fully alive.",
+      "author": "Mingyur Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 199,
+      "text": "When we see the true nature of things, we are free from delusion.",
+      "author": "Mingyur Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 200,
+      "text": "The heart of practice is to recognize our true nature.",
+      "author": "Mingyur Rinpoche",
+      "category": "self-awareness"
+    },
+    {
+      "id": 201,
+      "text": "The mind is like a clear sky. Thoughts are like clouds that come and go.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 202,
+      "text": "When we understand that our thoughts are not who we are, we find freedom.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 203,
+      "text": "The practice of meditation is not about changing who you are, but about recognizing who you are.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 204,
+      "text": "Compassion is not just a feeling. It's a way of being in the world.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "compassion"
+    },
+    {
+      "id": 205,
+      "text": "The practice of awareness is the practice of being fully present.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 206,
+      "text": "When we see the true nature of mind, we discover our innate wisdom.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 207,
+      "text": "The path to peace is not about changing the world, but about changing our relationship to it.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "peace"
+    },
+    {
+      "id": 208,
+      "text": "The practice of meditation is the practice of being at home in the present moment.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 209,
+      "text": "When we understand that everything is impermanent, we can appreciate each moment fully.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "impermanence"
+    },
+    {
+      "id": 210,
+      "text": "The mind is like a vast ocean, and thoughts are like waves on its surface.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 211,
+      "text": "The practice of awareness is the practice of being fully alive.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 212,
+      "text": "When we see the true nature of things, we are free from delusion.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "wisdom"
+    },
+    {
+      "id": 213,
+      "text": "The heart of practice is to recognize our true nature.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "self-awareness"
+    },
+    {
+      "id": 214,
+      "text": "The practice of meditation is not about achieving something, but about being something.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 215,
+      "text": "When we understand that our thoughts are not who we are, we find freedom.",
+      "author": "Tsoknyi Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 216,
+      "text": "The bad news is you're falling through the air, nothing to hang on to, no parachute. The good news is, there's no ground.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "freedom"
+    },
+    {
+      "id": 217,
+      "text": "The essence of warriorship, or the essence of human bravery, is refusing to give up on anyone or anything.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "courage"
+    },
+    {
+      "id": 218,
+      "text": "The practice of meditation is not about trying to throw ourselves away and become something better. It's about befriending who we are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 219,
+      "text": "The key to feeling at home with your body, mind, and emotions, to feeling worthy to live on this earth, is to be willing to die, to make friends with impermanence.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "impermanence"
+    },
+    {
+      "id": 220,
+      "text": "The essence of bravery is being without self-deception.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "courage"
+    },
+    {
+      "id": 221,
+      "text": "The practice of mindfulness is not about trying to achieve anything at all. It's about allowing yourself to be exactly as you are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 222,
+      "text": "The path is not about becoming something. It's about unbecoming everything that isn't really you.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "enlightenment"
+    },
+    {
+      "id": 223,
+      "text": "The essence of warriorship is not being afraid of who you are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "courage"
+    },
+    {
+      "id": 224,
+      "text": "The practice of meditation is not about trying to throw ourselves away and become something better. It's about befriending who we are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "meditation"
+    },
+    {
+      "id": 225,
+      "text": "The key to feeling at home with your body, mind, and emotions, to feeling worthy to live on this earth, is to be willing to die, to make friends with impermanence.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "impermanence"
+    },
+    {
+      "id": 226,
+      "text": "The essence of bravery is being without self-deception.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "courage"
+    },
+    {
+      "id": 227,
+      "text": "The practice of mindfulness is not about trying to achieve anything at all. It's about allowing yourself to be exactly as you are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "mindfulness"
+    },
+    {
+      "id": 228,
+      "text": "The path is not about becoming something. It's about unbecoming everything that isn't really you.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "enlightenment"
+    },
+    {
+      "id": 229,
+      "text": "The essence of warriorship is not being afraid of who you are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "courage"
+    },
+    {
+      "id": 230,
+      "text": "The practice of meditation is not about trying to throw ourselves away and become something better. It's about befriending who we are.",
+      "author": "Chögyam Trungpa Rinpoche",
+      "category": "meditation"
     }
   ]
 } 
